@@ -1,0 +1,16 @@
+/* Image.css */
+.image-container {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* You can add more styles or adjust the sizes as needed. */
+  
